@@ -16,7 +16,7 @@ An den Schulfesten verschiedenster Schulen gibt es immer Musik, um die Stimmung 
 Durch die App soll man abstimmen können, welches Lied als nächstes in Youtube gesucht und abgespielt werden soll.
 
 ## Projektziel
-Den vorhandenen Code zu verstehen zu können und so weit zu verändern, dass das Projektergebnis erreicht werden kann.
+Den vorhandenen Code verstehen zu können und so weit zu verändern, dass das Projektergebnis erreicht werden kann.
 
 ## Projektbeschreibung
 
