@@ -2,7 +2,7 @@
 
 
 ## Projektbezeichnung 
-Music Voting
+Vokabel - Lernprogramm
 
 ## Projektauftraggeber
 - Herr Prof. Stütz
@@ -10,17 +10,17 @@ Music Voting
 
 ## Projekthintergrund
 
-An den Schulfesten verschiedenster Schulen gibt es immer Musik, um die Stimmung zu heben und um alles ein bisschen aufzupeppen. Dabei wünscht man sich oft ein bestimmtes Lied, welches vielleicht aber nie gespielt wird und außerdem soll der Spaßfaktor durch das Voting erhöht werden.
+Diese Anwendung soll dazu beitragen Schülern das Lernen von Fremdsprachen beziehungsweise Vokabeln zu erleichtern. Durch diese Anwendung soll das Vokabellernen spielerischer gestalten.
 
 ## Projektergebnis
-Durch die App soll man abstimmen können, welches Lied als nächstes in Youtube gesucht und abgespielt werden soll.
+Ein umfangreiches Vokabel - Lernprogramm mit dem man sich selbst prüfen kann, ob man die Vokabeln gut genug für den bevorstehenden Test geübt hat.
 
 ## Projektziel
-Den vorhandenen Code verstehen zu können und so weit zu verändern, dass das Projektergebnis erreicht werden kann.
+Durch die Anwendung soll man sich durch die vielen Wiederholungen die Vokabeln besser merken können und somit das Projektergebnis erreichen kann.
 
 ## Projektbeschreibung
 
-Durch eine App sollen die User abstimmen, welches Lied zum Beispiel am Schulfest als nächstes abgespielt werden soll. Es gibt eine große Auswahl an Liedern und jenes, welches am meisten Votes hat, wird als nächstes gespielt. Die Liedertitel werden in YouTube gesucht und das, welches am besten den Suchkriterien entspricht, wird abgespielt. Da das Projekt schon einsatzfähig ist, sollen hauptsächlich nur Erweiterungen gemacht werden.
+Durch die Anwendung sollen Schüler die Englischvokabeln üben können. Der Schüler kann jederzeit beliebige Lernsets erstellen, wobei die Vokabeln einzeln eingegeben und anschließend in einer Datenbank gespeichert werden. Diese Lernsets können jederzeit wieder gelöscht werden.
 
 ## Projektstart
 21. Oktober 2019
@@ -28,11 +28,9 @@ Durch eine App sollen die User abstimmen, welches Lied zum Beispiel am Schulfest
 ## Projektende
 voraussichtlich Mai 2020
 
-## Projektressourcen
-Grundkonzept des Projektes ist bereits vorhanden und soll so verändert werden, dass die Liedertitel in Youtube gesucht und abgespielt werden.
 
 ## Projektrisiko
-Die Projektmitglieder haben noch keine Erfahrung mit Vue.js, Android-Programmierung
+Mangelnde Erfahrung in der Javaprogrammierung.
 
 ## Projektorganisation
 - Turner Isabel
